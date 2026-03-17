@@ -2,6 +2,7 @@
 
 ![Visitor Count](https://count.getloli.com/get/@BhaveshShastri?theme=booru-lewd)
 
+![](https://komarev.com/ghpvc/?username=BhaveshShastri&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
 <!--
 **BhaveshShastri/BhaveshShastri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
